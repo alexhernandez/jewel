@@ -3,5 +3,3 @@
 </p>
 
 # Jewel
-
-Just a lil gem... 😈
